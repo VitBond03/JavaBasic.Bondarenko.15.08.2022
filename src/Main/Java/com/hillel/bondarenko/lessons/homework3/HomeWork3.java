@@ -7,12 +7,8 @@ public class HomeWork3 {
          int h=2;
         System.out.println (a * b * h);
         System.out.println ("24=volume");
-         System.out.println(24*6);
+         System.out.println(6*24);
           System.out.println("144=length");
-
-
-
-
     }
 
 
